@@ -1,3 +1,10 @@
+//EXPERIMENT 7
+//NAME: PALAK SONI
+//PRN: 24070123069
+//Class: ENTC A3
+//Problem statement:- Write a code to find sum and average of values in a array.
+
+
 #include <iostream>
 using namespace std;
 
@@ -27,7 +34,8 @@ cout<<average;
 }
 
 
-/*
+/*Output:-
+
 The numbers of array are:
 12
 24
@@ -39,4 +47,5 @@ The numbers of array are:
 The sum of elements of array are:
 137
 The average of elements of array are:
-22*/
+22
+*/
