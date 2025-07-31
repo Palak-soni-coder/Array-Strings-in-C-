@@ -1,3 +1,9 @@
+//EXPERIMENT 7
+//NAME: PALAK SONI
+//PRN: 24070123069
+//Class: ENTC A3
+//Problem statement:- Write a code to store marks in an array and find key location after defining a key.
+
 
 #include <iostream>
 using namespace std;
@@ -24,7 +30,7 @@ for(int i =0; i<5;i++){
    return 0;
 }
 
-
+/*output:-
 The marks of student are:
 89
 98
@@ -34,3 +40,4 @@ The marks of student are:
 76
 89 98 70 99 66 76 
 key found at location:4
+*/
