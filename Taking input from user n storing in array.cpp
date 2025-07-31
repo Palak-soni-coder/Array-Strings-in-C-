@@ -1,3 +1,9 @@
+//EXPERIMENT 7
+//NAME: PALAK SONI
+//PRN: 24070123069
+//Class: ENTC A3
+//Problem statement:- Write a code to take input from user and store it in an array.
+
 
 #include <iostream>
 using namespace std;
