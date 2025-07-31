@@ -1,3 +1,9 @@
+//EXPERIMENT 7
+//NAME: PALAK SONI
+//PRN: 24070123069
+//Class: ENTC A3
+//Problem statement:- Write a code to reverse a array and display it.
+
 
 #include <iostream>
 using namespace std;
@@ -23,7 +29,7 @@ for(int i=5; i>=0; i--){
 }
 
 
-
+/* Output:-
 The numbers of array are:
 1
 2
@@ -33,3 +39,4 @@ The numbers of array are:
 6
 1 2 3 4 5 6 
 Reversed array is:6 5 4 3 2 1
+*/
