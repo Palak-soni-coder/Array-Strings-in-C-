@@ -23,7 +23,7 @@ for(int n=0; n<6; n++){
    return 0;
 }
 
-/*
+/*output:-
 The marks of student are:
 99
 89
